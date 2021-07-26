@@ -85,3 +85,10 @@ Aspect Ratio
 SizedBox
 LayoutBuilder
 Builder
+
+You can NOT build an app for________ platform using Flutter. 
+
+Linux
+iOS
+Symbian
+Android
