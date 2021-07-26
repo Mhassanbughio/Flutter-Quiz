@@ -67,3 +67,9 @@ False
 
 #########################################################################
 
+Which widget is not used for achieving UI responsiveness? 
+
+MediaQuery
+Aspect Ratio
+SizedBox
+FractionalySizedBox
