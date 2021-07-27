@@ -112,3 +112,11 @@ Correct answer
 3
  
 #########################################################################
+
+What is a Flutter Package? 
+
+An application built with Flutter
+Piece of code used to access native platform functionality
+3rd party code that you use in your application
+Modular code that can be shared
+
