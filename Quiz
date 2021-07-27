@@ -240,6 +240,8 @@ Platform package is a pure Dart package
 Correct answer
 Platform package is a pure Dart package
 
+#########################################################################
+
 When do we write Flutter plugins? 
 
 To abstract platform-specific logic from your Flutter app
