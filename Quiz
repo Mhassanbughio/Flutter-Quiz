@@ -193,3 +193,10 @@ The three key concepts of a federated plugin are?
 
 Correct answer
  platform interface package 2. app facing package 3. platform package
+
+Flutter’s builtin platform-specific API support is called? 
+
+Platform Channels
+Pigeon
+DefaultTargetPlatform
+ 
