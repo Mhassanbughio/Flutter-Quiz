@@ -222,3 +222,10 @@ Platform package is a pure Dart package
 
 Correct answer
 Platform package is a pure Dart package
+
+When do we write Flutter plugins? 
+
+To abstract platform-specific logic from your Flutter app
+To share your platform-specific code with other developers in the Flutter ecosystem
+When you expect to use your platform-specific code in multiple Flutter apps
+All of the above
