@@ -220,3 +220,5 @@ Federated plugins don't use platform channels
 App facing package specifies the API used by the Flutter app
 Platform package is a pure Dart package
 
+Correct answer
+Platform package is a pure Dart package
