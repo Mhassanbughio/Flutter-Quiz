@@ -202,3 +202,10 @@ DefaultTargetPlatform
  
 Correct answer
 Platform Channels
+
+Platform Channels work by using a technique called? 
+
+Code generation
+Socket programming
+Message passing
+Asynchronous programming
