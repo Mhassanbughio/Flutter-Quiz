@@ -184,3 +184,9 @@ All plugins are federated plugins
 Correct answer
 Way of splitting support for different platforms into separate packages 
 
+The three key concepts of a federated plugin are? 
+
+ platform interface package 2. app facing package 3. platform package
+1. interface package 2. app facing package 3. gluing package
+1. application itself 2. interface package 3. platform package
+1. Interfaces 2. Packages 3. plugins
