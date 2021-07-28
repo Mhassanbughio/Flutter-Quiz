@@ -253,3 +253,79 @@ Correct answer
 All of the above
 
 #########################################################################
+
+Question 1 *
+Streams
+Event
+States
+Futures
+Question 2 *
+Synchronous sequence
+Futures
+Asynchronous sequence
+Both a & c.
+None Of Above
+Question 3 *
+Widget position in the tree.
+Reference of the widget can be tracked.
+Is widget present inside the whole widget tree
+All of above.
+Question 4 *
+BLoC Builder
+BLoC Provider
+BLoC Listener
+Question 5 *
+BLoC
+Repository
+Network
+Model
+Question 6 *
+Factory Pattern.
+Singleton Pattern.
+Observer Pattern.
+None of above
+Question 7 *
+Business Logic Controller
+Business Logic Component
+Business Layer Component
+None of above
+Question 8 *
+Convert Event to Stream
+Convert BLoC Logic to New state
+Handles BLoC initial State
+Convert Event to State
+None of above
+Question 9 *
+BLoC Builder
+StreamController
+BLoC Listener
+BLoC Consumer
+Question 10 *
+Streams
+Event
+Sink
+Futures
+Question 11 *
+BLoC Consumer
+BLoC Provider
+BLoC Listener
+BLoC Builder
+Question 12 *
+Code is not reused.
+Creates a lot of boilerplate.
+Testing code is not easy
+None of above
+Question 13 *
+listenWhen.
+builder.
+listener
+None of above
+Question 14 *
+Subscribe to new future events.
+Listeners on a stream.
+Automatically creating a stream and sink to control stream.
+Question 15 *
+Sink.
+Future.
+Event.
+None of above
