@@ -329,3 +329,176 @@ Sink.
 Future.
 Event.
 None of above
+
+
+
+1) Dart is an Open Source programming Language Developed by. *
+2/2
+Microsoft
+Facebook
+Twitter
+Google correct
+ 
+ 
+2) Dart is an Application programming language. It is used to build for. *
+2/2
+Web
+Sever
+Mobile Applications
+All Of These correct
+ 
+ 
+3) Which of these are Dart Data Types. *
+0/2
+int
+float
+both a and b
+ 
+Tupple
+Correct answer
+int
+ 
+4) The name of the constructor and the name of the class are. *
+2/2
+Different
+Same correct
+ 
+Both a & B
+none of these
+ 
+5) A constructor is like a method without. *
+0/2
+Statements
+ 
+Argument List
+Return Type
+None of These
+Correct answer
+Return Type
+ 
+6) void main() { var usrMap = {"name": "Ali", 'Email': 'Ali@xyz.com'}; usrMap.forEach((k,v) => print('${k}: ${v}')); } *
+0/2
+name: Ali Email: Ali@xyz.com
+Ali: Ali@xyz.com
+ 
+error
+none of these
+Correct answer
+name: Ali Email: Ali@xyz.com
+ 
+7) Anonymous functions are function which has no. *
+2/2
+Return Type
+Argument List
+Name correct
+ 
+Parameters
+ 
+8) void main(){ int x=10; int y=20; x ??= y; print(x); } *
+2/2
+20
+30
+10 correct
+ 
+Error
+ 
+9) which is the correct extension of dart file. *
+0/2
+.dt
+.dart correct
+.Dart
+ 
+none of these
+Correct answer
+.dart
+ 
+10) Which is not the keyword in the dart *
+2/2
+async
+sync
+syn correct
+ 
+Extend
+ 
+11) How do you comment multiple lines in dart. *
+2/2
+# this is
+// comment //
+/* comment */
+ 
+*/ comment */
+ 
+12) which of this widget is used to center its child. *
+2/2
+runApp()
+MaterialApp()
+Center()
+ 
+Centre() correct
+ 
+13) Which of the following function or method can be used to add an action in button. *
+2/2
+GoTo
+onPressed correct
+ 
+JumpNow
+onAccess
+ 
+14) Which concept come under polymorphism *
+2/2
+Method Overloading
+Constructor Overloading
+Method overriding
+All of them correct
+ 
+ 
+15) What is the file name Where we Add dependencies in Flutter. *
+2/2
+README.md
+AndroidManifest.xml
+pubspec.yaml correct
+ 
+gradlew.bat
+ 
+16) Which of the following is not an OOPS concept? *
+2/2
+Encapsulation
+Plymorphism
+Exception
+Abstraction 
+all correct
+ 
+17) Which of the following widget is used to adds the filling size around the child widget. *
+0/2
+Image
+Column
+ 
+SizedBox
+Padding
+Correct answer
+Padding
+ 
+18) Which of the following widget is used to add specific width and height between widgets. *
+0/2
+AppBar
+SizedBox
+Padding
+ 
+OnChanged
+Correct answer
+SizedBox
+ 
+19) Which feature of OOPS described the reusability of code? *
+2/2
+Encapsulation
+Polymorphism
+Abstraction
+Inheritance correct
+ 
+ 
+20) Which feature of OOPS derives the class from another class? *
+2/2
+Encapsulation
+Polymorphism
+Abstraction
+Inheritance correct
